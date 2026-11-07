@@ -10,9 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/massdoel/Skrip-Aktivasi-Microsoft-MAS-"><img src="https://img.shields.io/github/stars/massgravel/Microsoft-Activation-Scripts?style=flat-square&logo=github" alt="GitHub Stars"></a>
-  <a href="https://discord.gg/j2yFsV5ZVC"><img src="https://img.shields.io/discord/1096686239158054932?style=flat-square&logo=discord&label=Discord" alt="Discord"></a>
-  <a href="https://massgrave.dev/"><img src="https://img.shields.io/badge/Halaman%20Utama-massgrave.dev-blue?style=flat-square" alt="Homepage"></a>
+  <a href="https://github.com/massdoel/Skrip-Aktivasi-Microsoft-MAS-">
 </p>
 
 <hr>
