@@ -10,9 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/massdoel/Skrip-Aktivasi-Microsoft-MAS"><img src="https://img.shields.io/github/stars/massdoel/Skrip-Aktivasi-Microsoft-MAS?style=flat-square&logo=github" alt="GitHub Stars">
-
----
+  <a href="https://github.com/massdoel/Skrip-Aktivasi-Microsoft-MAS"><
 
 ## ✨ Fitur Utama
 
