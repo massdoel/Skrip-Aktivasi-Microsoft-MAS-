@@ -2,38 +2,50 @@
 
 <p align="center">
   <strong>Aktivator Windows dan Office open-source yang aman dan tepercaya.</strong><br>
-  Mendukung metode aktivasi HWID, Ohook, TSforge, dan Online KMS, lengkap dengan alat pemecahan masalah (troubleshooting) tingkat lanjut.
+  Mendukung metode aktivasi HWID, Ohook, TSforge, dan Online KMS, lengkap dengan alat pemecahan masalah tingkat lanjut.
 </p>
 
 <p align="center">
-  <strong>Versi Terbaru:</strong> 3.12 &nbsp;|&nbsp; <strong>Tanggal Rilis:</strong> 08 November 2026
+  <strong>Versi Terbaru:</strong> 3.12 &nbsp;|&nbsp; <strong>Tanggal Rilis:</strong> 04 Juli 2026
 </p>
 
 <p align="center">
-  <a href="https://github.com/massdoel/Skrip-Aktivasi-Microsoft-MAS-">
+  <a href="https://github.com/massdoel/Skrip-Aktivasi-Microsoft-MAS"><img src="https://img.shields.io/github/stars/massdoel/Skrip-Aktivasi-Microsoft-MAS?style=flat-square&logo=github" alt="GitHub Stars"></a>
+  <a href="https://github.com/massdoel/Skrip-Aktivasi-Microsoft-MAS/releases"><img src="https://img.shields.io/github/downloads/massdoel/Skrip-Aktivasi-Microsoft-MAS/total?style=flat-square" alt="Downloads"></a>
+  <a href="https://github.com/massdoel/Skrip-Aktivasi-Microsoft-MAS/blob/main/LICENSE"><img src="https://img.shields.io/github/license/massdoel/Skrip-Aktivasi-Microsoft-MAS?style=flat-square" alt="License"></a>
 </p>
-
-<hr>
-
-## ✨ Fitur Utama
-- **HWID**: Aktivasi Windows permanen (Windows 10 & 11).
-- **Ohook**: Aktivasi Office permanen tanpa mengubah file inti.
-- **TSforge**: Metode aktivasi lanjutan untuk skenario khusus.
-- **Online KMS**: Aktivasi Windows dan Office selama 180 hari (dengan pembaruan otomatis).
-- **Alat Diagnostik**: Fitur *troubleshooting* bawaan untuk memperbaiki masalah aktivasi umum.
 
 ---
 
-## 🚀 Cara Aktivasi (Windows / Office / ESU)
+## ✨ Fitur Utama
 
-Pilih salah satu dari dua metode di bawah ini sesuai dengan kenyamanan Anda.
+### 🪟 Aktivasi Windows
+- **HWID (Hardware ID)**: Aktivasi permanen untuk Windows 10/11
+- **TSforge**: Metode aktivasi lanjutan untuk Windows, Office, dan ESU
+- **Online KMS**: Aktivasi Windows dan Office selama 180 hari dengan pembaruan otomatis
+- **KMS4k**: Aktivasi Volume untuk 4000+ tahun (hanya untuk lisensi Volume)
 
-### 🥇 Metode 1: PowerShell (Cepat & Direkomendasikan)
-Metode ini tidak memerlukan pengunduhan file manual dan berjalan langsung dari memori.
+### 📊 Aktivasi Office
+- **Ohook**: Aktivasi Office permanen tanpa mengubah file inti
+- **TSforge**: Dukungan untuk Office 2013, 2016, 2019, 2021, dan 2024
+- **Online KMS**: Aktivasi Office dengan pembaruan otomatis
 
-1. Buka **Start Menu**, ketik `PowerShell`, lalu buka aplikasinya (disarankan klik kanan > *Run as Administrator*).
-2. Salin dan tempel salah satu perintah berikut, lalu tekan **Enter**:
+### 🔧 Fitur Tambahan
+- **Extended Security Updates (ESU)**: Dukungan untuk pembaruan keamanan setelah EOL
+- **Alat Diagnostik**: Fitur troubleshooting bawaan untuk memperbaiki masalah aktivasi
+- **Perubahan Edition**: Ubah edisi Windows dan Office dengan mudah
+- **Pembaruan Otomatis**: Skrip akan memeriksa versi terbaru secara otomatis
 
-   **Perintah Standar (Windows 8.1, 10, dan 11):**
+---
+
+## 🚀 Cara Instalasi
+
+### Metode 1: PowerShell (Direkomendasikan)
+
+1. Buka **Start Menu**, ketik `PowerShell`, lalu buka aplikasinya (klik kanan > *Run as Administrator*)
+
+2. Salin dan tempel salah satu perintah berikut:
+
+   **Perintah Standar:**
    ```powershell
    irm https://get.activated.win | iex
