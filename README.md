@@ -10,10 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/massdoel/Skrip-Aktivasi-Microsoft-MAS"><img src="https://img.shields.io/github/stars/massdoel/Skrip-Aktivasi-Microsoft-MAS?style=flat-square&logo=github" alt="GitHub Stars"></a>
-  <a href="https://github.com/massdoel/Skrip-Aktivasi-Microsoft-MAS/releases"><img src="https://img.shields.io/github/downloads/massdoel/Skrip-Aktivasi-Microsoft-MAS/total?style=flat-square" alt="Downloads"></a>
-  <a href="https://github.com/massdoel/Skrip-Aktivasi-Microsoft-MAS/blob/main/LICENSE"><img src="https://img.shields.io/github/license/massdoel/Skrip-Aktivasi-Microsoft-MAS?style=flat-square" alt="License"></a>
-</p>
+  <a href="https://github.com/massdoel/Skrip-Aktivasi-Microsoft-MAS"><img src="https://img.shields.io/github/stars/massdoel/Skrip-Aktivasi-Microsoft-MAS?style=flat-square&logo=github" alt="GitHub Stars">
 
 ---
 
