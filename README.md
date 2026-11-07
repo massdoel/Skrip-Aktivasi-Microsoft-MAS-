@@ -1,4 +1,4 @@
-# 🛠️ Skrip Aktivasi Microsoft (MAS)
+# 🛠️ Script Aktivasi Microsoft (MAS)
 
 <p align="center">
   <strong>Aktivator Windows dan Office open-source yang aman dan tepercaya.</strong><br>
