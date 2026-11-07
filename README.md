@@ -6,11 +6,11 @@
 </p>
 
 <p align="center">
-  <strong>Versi Terbaru:</strong> 3.12 &nbsp;|&nbsp; <strong>Tanggal Rilis:</strong> 04 Juli 2026
+  <strong>Versi Terbaru:</strong> 3.12 &nbsp;|&nbsp; <strong>Tanggal Rilis:</strong> 08 November 2026
 </p>
 
 <p align="center">
-  <a href="https://github.com/massdoel/Skrip-Aktivasi-Microsoft-MAS"><
+  <a href="https://github.com/massdoel/Skrip-Aktivasi-Microsoft-MAS">
 
 ## ✨ Fitur Utama
 
